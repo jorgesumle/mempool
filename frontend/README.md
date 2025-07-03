@@ -99,7 +99,7 @@ You will probably want to set up a reverse proxy, TLS, etc. There are sample ngi
 ## Translations: Transifex Project
 
 The Mempool frontend strings are localized into 20+ locales:
-https://www.transifex.com/mempool/mempool/dashboard/
+https://explore.transifex.com/mempool/mempool/
 
 ### Translators
 
